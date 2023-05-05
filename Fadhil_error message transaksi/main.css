@@ -1,0 +1,317 @@
+.container {
+    width: 375px;
+    height: 812px;
+    margin: auto;
+    background-color: #F7F7F7;
+    background-image: url("./assets/7ntbaru.png");
+    background-repeat: no-repeat;
+    background-position: top 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.arrow{
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 18px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+
+h2{
+    font-size: 18px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+    color: #2C459E;
+}
+
+.logodana{
+    width: 55px;
+    height: 35px;
+    position: absolute;
+    margin-left: -30px;
+    /* margin-right: 100px;  */
+    margin-top: 100px;
+}
+
+h3{
+    font-size: 15px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 55px;
+    color: #000000;
+}
+
+h4{
+    font-size: 15px;
+    font-family: ;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 75px;
+    color: #2C459E;
+}
+
+.logoverified{
+    position: absolute;
+    margin-left: 20px;
+    /* margin-right: 100px;  */
+    margin-top: 130px;
+}
+
+h5{
+    font-size: 15px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 130px;
+    color: #000000;
+}
+
+p{
+    font-size: 18px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 170px;
+    color: #2C459E;
+}
+
+.rectanglebox{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 340px;
+    height: 65px;
+    left: 5px;
+    top: 210px;
+    
+    background: #FFFFFF;
+    border-width: 0px 1px 1px 1px;
+    border-style: solid;
+    border-color: #D5D5D5;
+}
+
+h6{
+    font-size: 18px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 5px;
+    color: #000000;
+}
+
+.logonominal{
+    position: absolute;
+    width: 48px;
+    height: 43px;
+    left: 5px;
+    top: 20px;
+}
+
+.p-descript{
+    font-size: 12px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 30px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #FF0000;
+}
+
+.p-text1{
+    font-size: 18px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 90px;
+    color: #2C459E;
+}
+
+.rectanglebox2{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 348px;
+    height: 57px;
+    left: 5px;
+    top: 270px;
+
+    background: #FFFFFF;
+    border-width: 0px 1px 1px 1px;
+    border-style: solid;
+    border-color: #D5D5D5;
+    border-radius: 15px;
+}
+
+.logousername{
+    position: absolute;
+    width: 46px;
+    height: 48px;
+    left: 6px;
+    top: 2px;
+}
+
+.logoarrowdown{
+    position: absolute;
+    width: 26px;
+    height: 21px;
+    left: 300px;
+    top: 20px;
+}
+
+
+.p-text2{
+    font-size: 14px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 10px;
+    color: #000000;
+}
+
+.p-text3{
+    font-size: 14px;
+    font-family: ;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 25px;
+    color: #000000;
+}
+
+.rectanglebox3{
+    position: relative;
+    width: 326px;
+    height: 59px;
+    left: 10px;
+    top: 570px;
+
+    background: #1279CC;
+    border-radius: 16px;
+}
+
+.p-text4{
+    font-size: 16px;
+    font-family: ;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 15px;
+    color: #ffffff;
+}
+
+.rectanglebox4{
+    position: relative;
+    width: 375px;
+    height: 49px;
+    left: -11px;
+    top: -171px;
+
+    background: #DA3C3C;
+}
+
+.p-descript2{
+    font-size: 12px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 5px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+
+.blocklayer{
+    position: relative;
+    width: 375px;
+    height: 812px;
+    left: -22px;
+    top: -738px;
+
+    background: #BBC4E4;
+    opacity: 0.6;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.rectanglebox5{
+    position: relative;
+    width: 375px;
+    height: 572px;
+    left: -12px;
+    top: 36px;
+    border-radius: 30px;
+
+    background: #FFFFFF
+}
+
+.rectanglebox6{
+    position: relative;
+    width: 326px;
+    height: 59px;
+    left: 10px;
+    top: -61px;
+
+    background: #1279CC;
+    border-radius: 16px;
+}
+
+.p-descript3{
+    font-size: 15px;
+    font-family: ;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 300px;
+    line-height: 19px;
+    align-items: center;
+    color: #000000;
+}
+
+.p-text5{
+    font-size: 16px;
+    font-family: ;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 15px;
+    color: #ffffff;
+}
+
+.logodamagerobot{
+    position: absolute;
+    width: 286.75px;
+    height: 190px;
+    left: 20px;
+    top: -420px;
+}
+
+.p-text6{
+    font-size: 24px;
+    font-family: ;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -240px;
+    color: #345CEA;
+}
+
+
+
