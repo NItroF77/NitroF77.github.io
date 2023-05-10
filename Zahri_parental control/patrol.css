@@ -48,6 +48,7 @@
     height: 55px;
     font-size: 12px;
 }
+
 .log-box{
     background-color: #E3E3E3;
     border-radius: 15px;
@@ -55,9 +56,29 @@
     height: 80px;
     font-size: 12px;
 }
-.log-box .m-income{
+.income-font{
     color: #34BF1E;
+}
+.outcome-font{
+    color : #E30B0B;
 }
 .bottom-align{
     vertical-align: bottom;
+}
+.bg-gray{
+    background-color: #bebbbb;
+}
+.bg-blue{
+    background-color: #1F8DE2;
+}
+.button{
+    width: 260px;
+    height: 60px;
+    border-radius: 15px;
+}
+.font-12{
+    font-size: 12px;
+}
+.font-11{
+    font-size: 11px;
 }
