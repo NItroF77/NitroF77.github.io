@@ -55,3 +55,9 @@
     height: 80px;
     font-size: 12px;
 }
+.log-box .m-income{
+    color: #34BF1E;
+}
+.bottom-align{
+    vertical-align: bottom;
+}
