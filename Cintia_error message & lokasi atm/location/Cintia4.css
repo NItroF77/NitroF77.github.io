@@ -1,0 +1,292 @@
+.container{
+    width: 375px;
+    height: 812px;
+    padding: 0;
+    background-color: #F7F7F7;
+    border-radius: 30px;
+}
+
+.container-bg {
+    width: 375px;
+    height: 60px;
+    border-radius: 30px 30px 0px 0px;
+    position: absolute;
+}
+
+h1.lokasi{
+    font-size: 20px;
+    position: absolute;
+    margin-right: 95px;
+    margin-left: 120px;
+    margin-top: 20px;
+    color: white;
+
+}
+
+.arrowback{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.bg-filterLocation{
+    width: 375px;
+    height: 812px;
+    position: absolute;
+    background-color:rgba(25, 127, 209, 0.5);
+    margin-top: -500px;
+    border-radius: 30px;
+}
+
+.bg-filter{
+    width: 375px;
+    height: 352px;
+    position: absolute;
+    background-color: #fff;
+    margin-top: -40px;
+    border-radius: 30px;
+}
+
+/* Navigasi ATM */
+h2.lokasi{
+    position: absolute;
+    font-size: 13px;
+    margin-top: -56px;
+    margin-left: 30px;
+    color: black;
+}
+
+h3.lokasi{
+    position: absolute;
+    width: 375px;
+    font-size: 12px;
+    margin-top: -38px;
+    margin-left: 30px;
+    padding-right: 120px;
+    color: #7B7B7B;
+}
+
+h4.lokasi{
+    position: absolute;
+    width: 375px;
+    font-size: 13px;
+    margin-top: -32px;
+    margin-left: 307px;
+    padding-right: 120px;
+    color: #000;
+}
+
+.up{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 170px;
+}
+
+.input-field .input{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 11px;
+    height: 46px;
+    width: 353px;
+    border: none;
+    border-radius: 15px;
+    color: #979797;
+    font-size: 15px;
+    padding: 0 45px 0 45px;
+    background: #fff;
+    outline: none;
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+}
+
+i{
+    position: relative;
+    top: 20px;
+    left: 25px;
+    color: #979797;
+}
+::-webkit-input-placeholder{
+    color: #979797;
+}
+
+.setting{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 310px;
+}
+
+.bgLocation{
+    position: relative;
+    width: 353px;
+    height: 69px;
+    margin-left: 11px;
+    margin-top: 9px;
+}
+
+.letak-bgLocation{
+    margin-top: 35px;
+}
+
+.arrowRight{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: -40px;
+}
+
+/* Filter ATM */
+h1.filter{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: #000;
+}
+
+h2.jenis{
+    position: absolute;
+    font-size: 18px;
+    margin-top: 60px;
+    margin-left: 20px;
+    color: #000;
+}
+
+h2.location{
+    position: absolute;
+    font-size: 18px;
+    margin-top: 135px;
+    margin-left: 20px;
+    color: #000;
+}
+
+h3.atm{
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    background-color: #D9D9D9;
+    margin-top: 90px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+
+.atm{
+    position: absolute;
+    margin-top: 94px;
+    margin-left: 25px;
+}
+
+h3.kantor{
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    background-color: #D9D9D9;
+    margin-top: 90px;
+    margin-left: 110px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+
+.kantor{
+    position: absolute;
+    margin-top: 94px;
+    margin-left: 115px;
+}
+
+h3.bandung{
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    background-color: #D9D9D9;
+    margin-top: 165px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+
+.bandung{
+    position: absolute;
+    margin-top: 169px;
+    margin-left: 25px;
+}
+
+h3.kab-bandung{
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    background-color: #D9D9D9;
+    margin-top: 165px;
+    margin-left: 145px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+
+.kab-bandung{
+    position: absolute;
+    margin-top: 169px;
+    margin-left: 150px;
+}
+
+h3.cimahi{
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    background-color: #D9D9D9;
+    margin-top: 205px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+
+.cimahi{
+    position: absolute;
+    margin-top: 209px;
+    margin-left: 25px;
+}
+
+.btn-konfirmasi{
+    margin-left: 25px;
+}
+
+.styled {
+    position: absolute;
+    border: none;
+    border-radius: 16px;
+    font-size: 16px;
+    font-weight: bold;
+    height: 50px;
+    width: 326px;
+    outline: none;
+    color: #fff;
+    background: #1279CC;
+    cursor: pointer;
+    transition: .3s ;
+    margin-top: 275px;
+}
+
+.styled:hover {
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+}
