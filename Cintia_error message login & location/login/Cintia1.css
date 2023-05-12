@@ -48,7 +48,7 @@ hr.line-top{
     margin-left: 15px;
 }
 
-/* login */
+/* CSS login */
 h1.login{
     font-size: 24px;
     font-family:'Lucida Sans';
@@ -122,11 +122,11 @@ i{
     position: absolute;
     height: 55px;
     width: 55px;
-    margin-top: 735px;
+    margin-top: -22px;
     margin-left: 300px;
 }
 
-/* network error */
+/* CSS network error */
 .bgNetworkError{
     width: 375px;
     height: 552px;
@@ -197,7 +197,7 @@ h5.error{
     opacity: 0.6;
 }
 
-/* login error */
+/* CSS login error */
 .errormessage{
     width: 375px;
     position: absolute;
